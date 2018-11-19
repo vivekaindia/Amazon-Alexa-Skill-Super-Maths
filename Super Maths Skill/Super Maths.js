@@ -536,6 +536,6 @@
       return this.attributes['highScore'];
   }
   
-  function randomSelect(i){
+  function randomSelect(i){ 
     return (Math.floor(Math.random()*i));
   }
