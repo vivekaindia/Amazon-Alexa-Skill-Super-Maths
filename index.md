@@ -353,4 +353,4 @@ Sometimes the Users utterance can invoke the answer intent but with no actual an
   
 ### Support or Contact
 
-For more skills chcek my github repository [link] (https://github.com/vivekaindia) or contact me at vvksindia@gmail.com
+For more skills chcek my github repository [link] (https://github.com/vivekaindia) or contact me at vvksindia@gmail.com 
