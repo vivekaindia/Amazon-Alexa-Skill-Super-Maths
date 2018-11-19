@@ -17,4 +17,4 @@ Instructions to set up:
 2. Go to Jason editor in the left side menu
 3. Copy or import Super Maths. Jason
 4. Enable display in the Interface section.
-5. Your frontend is all Set.
+5. Your frontend is all Set
