@@ -36,7 +36,7 @@
                         }
                     ],
                     "samples": [
-                        "start a new game",
+                        "start a new game", 
                         "ready to {play}",
                         "ready {play}",
                         "begin {play}",
